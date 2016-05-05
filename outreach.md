@@ -17,8 +17,8 @@ permalink: /outreach/
 
 ### Neuro Talk Activity
 
-# Alexandra Colón Rodríguez
-# Madiha Khalid	
+#### Alexandra Colón Rodríguez
+#### Madiha Khalid	
 
 [Slides](https://www.dropbox.com/s/do3ipxy96qddlyv/Synaptic%20transmission%20drawings.pptx?dl=0)
 
