@@ -14,6 +14,8 @@ permalink: /outreach/
 
 ### Neuro FedEX (Axonal Transport) 
 
+![NeuroFedEX](https://dl.dropboxusercontent.com/s/ecsi7egqpwj52ea/Neuro%20FedEX1.jpg?dl=0)
+
 ### Neuro Talk Activity
 
 Created by Alexandra Colón Rodríguez and Madiha Khalid	
