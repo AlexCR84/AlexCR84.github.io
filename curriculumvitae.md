@@ -7,8 +7,8 @@ permalink: /cv/
 Curriculum vitae
 Alexandra Colón-Rodríguez
 
-E: colonro1@msu.edu							 1250 Haslett Rd. Apt C7
-P: (787) 648-9017							 East Lansing, MI 48823.
+E: colonro1@msu.edu							 
+P: (787) 648-9017						
 
 
 EDUCATION
@@ -166,7 +166,7 @@ PROFESSIONAL DEVELOPMENT
 *	Laser Capture Microdissection: Methods for Microgenomic Analysis, National Institute of Health, Bethesda, MD, August 3 - 6, 2010.
 
 REFERENCES
-*Contact information available upon request
+* Contact information available upon request
 *	Dr. William D. Atchison, Professor, Department of Pharmacology and Toxicology Michigan State University
 
 *	Dr. Vilma Yuzbasiyan-Gurkan, Director of the Comparative Medicine and Integrative Biology Program and Associate Dean of Research and Graduate Studies, College of Veterinary Medicine, Michigan State University
