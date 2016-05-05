@@ -13,12 +13,9 @@ permalink: /outreach/
 
 ### Neuro FedEX (Axonal Transport) 
 
-
-
 ### Neuro Talk Activity
 
-#### Alexandra Colón Rodríguez
-#### Madiha Khalid	
+Created by Alexandra Colón Rodríguez and Madiha Khalid	
 
 [Slides](https://www.dropbox.com/s/do3ipxy96qddlyv/Synaptic%20transmission%20drawings.pptx?dl=0)
 
