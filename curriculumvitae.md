@@ -101,7 +101,7 @@ SCIENTIFIC PUBLICATIONS
 
 
 MENTORING EXPERIENCE
-* I designed an independent research project and supervised the progress of the students.
+I designed an independent research project and supervised the progress of the students.
 
 *	Summer 2015- Nicole Colón, Undergraduate student from the University of Puerto Rico-Cayey. 
 
