@@ -10,13 +10,14 @@ permalink: /outreach/
 
 ### Do you know your brain? 
 
-![gras](https://dl.dropboxusercontent.com/s/ajtj6t17mb2e62g/Neuro%20Talk%201.JPG?dl=0)
 
 ### Neuro FedEX (Axonal Transport) 
 
 ### Neuro Talk Activity
 
 Created by Alexandra Colón Rodríguez and Madiha Khalid	
+
+![NeuroTalk](https://dl.dropboxusercontent.com/s/ajtj6t17mb2e62g/Neuro%20Talk%201.JPG?dl=0)
 
 [Slides](https://www.dropbox.com/s/do3ipxy96qddlyv/Synaptic%20transmission%20drawings.pptx?dl=0)
 
