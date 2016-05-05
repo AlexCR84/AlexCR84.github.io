@@ -4,7 +4,8 @@ title: Curriculum Vitae
 permalink: /curriculumvitae/
 ---
 
-Curriculum vitae
+[PDF](https://www.dropbox.com/s/uat86drm2db083d/Colon-Rodriguez_CV%20Teaching%20portfolio.pdf?dl=0)
+
 Alexandra Colón-Rodríguez
 
 E: colonro1@msu.edu							 
