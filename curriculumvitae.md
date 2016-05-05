@@ -27,6 +27,7 @@ Bachelor of Science in Applied Microbiology
 (June 2009) 
 
 WORK/RESEARCH EXPERIENCE
+
 *	Graduate Research Assistant. Comparative Medicine and Integrative Biology Program; Environmental and Toxicological Sciences Program, (August 2010 - present). Michigan State University, East Lansing, MI: “Role of AMPA receptors on MeHg-induced toxicity in spinal cord motor neurons”. Mentor: William D. Atchison PhD, Department of Pharmacology and Toxicology. 
 
 *	Post-baccalaureate Research Assistant. Bridge to the PhD in the Neuroscience Program (BPNP), Lifelong student (August 2009 - July 2010). Michigan State University, East Lansing, MI: “Ion channel gene transcription is affected differentially in rat cerebellum after postnatal methylmercury exposure”. Mentor: William D. Atchison PhD, Department of Pharmacology and Toxicology. 
@@ -38,27 +39,44 @@ WORK/RESEARCH EXPERIENCE
 *	Summer Internship. Ronald E. McNair Post-baccalaureate Achievement Program, Summer Research Opportunity Program, Member (May 2008 - August 2008). Michigan State University, East Lansing, MI: “Structure – function relation of the EpsG protein of Vibrio cholerae”. Mentor: Michael Bagdasarian MD. PhD, Department of Microbiology and Molecular Genetics. 
 
 PROFESSIONAL/ STUDENT ASSOCIATIONS
+
 *	Michigan Society for Neuroscience (MI-SFN), Member (February 2014 – present)
+
 *	Alliance for Graduate Education and the Professoriate (AGEP) (January 2014 - present)
+
 *	MSU College of Veterinary Medicine Committee on Diversity, Graduate student representative (May 2013 – May 2015)
+
 *	Michigan Society of Toxicology (MISOT), Member (January 2013 - present)
+
 *	MSU Graduate Women in Science (GWIS), Member (September 2012 - present), President (May 2015-present)
+
 *	Society for Advancement of Chicano/Latino and Native Americans in Science (SACNAS), Member (April 2012 - present)
+
 *	Society of Toxicology (SOT), Member (July 2011 - present)
+
 *	Society for Neuroscience (SFN), Member (September 2010 - present)
 
 AWARDS
 *	SOT Women in Toxicology Graduate Student Achievement Award, March 2015.
+
 *	Alliance for Graduate Education and the Professoriate NSF Scholar Award, February 2015.
+
 *	MSU Center for Integrative Toxicology NIEHS Fellowship (T32ES007255-26), MI, January 2015 - present. 
+
 *	Science Communication Fellowship, NSF Portal to the Public Program, Detroit Zoological Society, Detroit, MI, October 2014.
+
 *	SFN Next Generation Award, co-recipient, August 2014.
+
 *	SFN Neuroscience Scholars Program Fellow, August 2014- July 2016.
+
 *	SOT Hispanic Organization of Toxicologists Travel Award for the 2014 Annual SOT Meeting, Phoenix, AZ. March 2014. 
+
 *	SOT Perry J. Gehring Diversity Student Travel Award for the 2013 Annual SOT Meeting, San Antonio, TX. March 2013.
 
 ABSTRACTS/ RESEARCH PRESENTATIONS
+
 POSTER
+
 *	A. Colón-Rodriguez, R. K. Hajela, W. D. Atchison. Contribution of AMPA receptors in methylmercury-induced cell death in the motor neuron NSC34 cell line, SOT 2016 Annual Meeting, New Orleans, LA. March 14th, 2016.
 
 *	A. Colón-Rodriguez, E. S. Rodriguez-Tapia, C. T. Tiernan, W. D. Atchison. Bridge to Neuroscience Workshop: taking neuroscience to high school and undergraduate students in Puerto Rico, SFN 2015 Annual Meeting, Chicago, IL. October 17-18, 2015.
@@ -101,6 +119,7 @@ SCIENTIFIC PUBLICATIONS
 
 
 MENTORING EXPERIENCE
+
 I designed an independent research project and supervised the progress of the students.
 
 *	Summer 2015- Nicole Colón, Undergraduate student from the University of Puerto Rico-Cayey. 
@@ -132,6 +151,7 @@ I designed an independent research project and supervised the progress of the st
 *	Summer 2010- Miranda Sanchez, B.S., Student from the MSU College of Veterinary Medicine.  
 
 TEACHING EXPERIENCE
+
 *	Instructor - Microbiology course, Vetward Bound Enrichment Summer Program, College of Veterinary Medicine, MSU, Summers 2012- 2015. 
 
 *	Lecture PHM 480 Neurobiology of Disease course - Creutzfeldt Jakob disease: An infectious disease of the nervous system, December 2013.
@@ -139,34 +159,56 @@ TEACHING EXPERIENCE
 *	Lecture PHM 480 Neurobiology of Disease course - Infectious diseases: Lyme disease and bacterial meningitis, December 2012.
 
 SELECTED OUTREACH ACTIVITIES AND LEADERSHIP ROLES
+
 *	President- MSU Graduate Women in Science. May 2015- present. 
+
 *	Chalk talk facilitator and writing coach- MSU Summer Research Opportunities Program (SROP), East Lansing, MI. Summer 2014 – present.
+
 *	Peer mentor- SOT Undergraduate Education Program. SOT Annual Meeting. 2011- present.
+
 *	Co-Chair- Graduate Women in Science, Girls Math and Science Day, East Lansing, MI August 2015- present. 
+
 *	Designed and Presented- Portal to the Public workshop- Neuro-Talk:Synaptic Communication. Detroit Zoo, Detroit, MI. January 17th, June 6th, 2015. 
+
 *	Organized and Presented – “Our nervous system at work” workshop at Marble Elementary School to 1st, 2nd, and 3rd graders, East Lansing, MI. May 2013.
+
 *	Designed and Co-coordinate- Bridge to the PhD in Neuroscience Summer Program scientific writing workshop, Michigan State University, East Lansing, MI. May 2012- present.
+
 *	Designed and Co-Coordinate. Bridge to Neuroscience Workshop; Neuroscience Program, Michigan State University, East Lansing, MI. January 2011 – present.
 
 INVITED SPEAKER
+
 *	Panelist- MSU 2015 Leadership Summit. Student leadership panel. East Lansing, MI. November 2015.
+
 *	Panelist - Society of Toxicology Undergraduate Education Program. “What is Grad school and what can I expect? A graduate student perspective”. Phoenix, AZ. March 2014. 
+
 *	Speaker - UNE URGREAT-MBRS-RISE Program Retreat. “Jointly advancing our commitment to scholarly pursuit: Inspiring and empowering both mentor and mentee”, Fajardo, PR. May 2013.
+
 *	Speaker – University of Puerto Rico- Cayey RISE Program. “Life in Graduate School”. Cayey, PR. February 2012.
 
 PROFESSIONAL DEVELOPMENT 
 *	Short Course: Optimizing Experimental Design for High Quality Science. Society for Neuroscience, October 16th, 2015. Certificate. 
+
 *	Analyzing Next Generation Sequence Data short course. Michigan State University Kellogg Biological Station, Hickory Corners, MI, August 10 - 21st, 2015. Certificate.
+
 *	Graduate Student Leadership Academy. Michigan State University, East Lansing, MI, February 26th – April 2nd, 2015. Certificate.
+
 *	AAAS Communicating Science: Tools for Scientists. Michigan State University, MI, February 2015. 
+
 *	Write Winning Grant Proposals. Michigan State University, East Lansing, MI, January 8th, 2015.
+
 *	Short Course: Advances in Brain-scale, Automated Anatomical Techniques: Neuronal Reconstruction, Tract Tracing, and Atlasing, Society for Neuroscience, November 14th, 2014. Certificate.
+
 *	Responsible Conduct of Research. Michigan State University, East Lansing, MI, October 2013 – February 2014. Certificate.
+
 *	University Graduate Certification in College Teaching Institute, East Lansing, MI, May 2013. 
+
 *	Laser Capture Microdissection: Methods for Microgenomic Analysis, National Institute of Health, Bethesda, MD, August 3 - 6, 2010.
 
 REFERENCES
+
 * Contact information available upon request
+
 *	Dr. William D. Atchison, Professor, Department of Pharmacology and Toxicology Michigan State University
 
 *	Dr. Vilma Yuzbasiyan-Gurkan, Director of the Comparative Medicine and Integrative Biology Program and Associate Dean of Research and Graduate Studies, College of Veterinary Medicine, Michigan State University
