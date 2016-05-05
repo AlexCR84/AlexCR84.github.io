@@ -10,7 +10,7 @@ permalink: /outreach/
 
 ### Do you know your brain? 
 
-![gras](https://dl.dropboxusercontent.com/home/Teaching%20Portfolio_Alexandra%20Colon/Outreach/Neuro%20FedEx%20(Axonal%20transport)?preview=Neuro+FedEX2.jpg)
+![gras](https://dl.dropboxusercontent.com/s/ajtj6t17mb2e62g/Neuro%20Talk%201.JPG?dl=0)
 
 ### Neuro FedEX (Axonal Transport) 
 
