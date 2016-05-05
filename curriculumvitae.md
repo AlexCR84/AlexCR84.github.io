@@ -58,6 +58,7 @@ PROFESSIONAL/ STUDENT ASSOCIATIONS
 *	Society for Neuroscience (SFN), Member (September 2010 - present)
 
 AWARDS
+
 *	SOT Women in Toxicology Graduate Student Achievement Award, March 2015.
 
 *	Alliance for Graduate Education and the Professoriate NSF Scholar Award, February 2015.
@@ -105,6 +106,7 @@ POSTER
 *	A. Colón-Rodriguez, R. K. Hajela, W. D. Atchison. Expression of nerve membrane proteins in a naturally occurring Ca+2 channelopathy. Ronald E. McNair Undergraduate Research Symposium, East Lansing, MI. August 5, 2009. 
 
 ORAL
+
 *	A. Colón-Rodriguez. Neuroscience Outreach in Puerto Rico: Impact of the Next Generation Award, SFN 2015 Annual Meeting, Chicago, IL. October 18th, 2015.
 
 *	A. Colón-Rodriguez. Comparative effects of methylmercury on expression of ligand-gated and voltage-gated calcium channels in rat cerebellum and brainstem. NEURAL Conference, Birmingham, AL. June 25th, 2015.
@@ -117,7 +119,6 @@ SCIENTIFIC PUBLICATIONS
 *	Low level methylmercury exposure alters steady state levels of ion channel mRNA in the cerebellum and brainstem of the developing rat. Alexandra Colón-Rodriguez, Ravindra K. Hajela, Yukun Yuan, and William D. Atchison. In progress.
 
 *	Bridge to Neuroscience Workshop: An effective educational tool to introduce principles of neuroscience and reinforce participation of Hispanic students in neuroscience-related research. Alexandra Colón-Rodriguez, Eileen S. Rodríguez-Tapia, Chelsea T. Tiernan, and William D. Atchison. In progress.
-
 
 MENTORING EXPERIENCE
 
