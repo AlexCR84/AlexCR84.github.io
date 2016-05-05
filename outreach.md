@@ -10,6 +10,7 @@ permalink: /outreach/
 
 ### Do you know your brain? 
 
+![DoYouKnowYourBrain](https://dl.dropboxusercontent.com/s/1blbpvmh4dtwn22/Do%20you%20know%20your%20brain%3F.jpg?dl=0)
 
 ### Neuro FedEX (Axonal Transport) 
 
