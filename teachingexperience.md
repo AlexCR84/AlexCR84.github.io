@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Teach Experience
+title: Teaching Experience
 permalink: /teachingexperience/
 ---
 
-### Micrbiology Short Course 
+### Microbiology Short Course 
 
 Syllabus 
 
